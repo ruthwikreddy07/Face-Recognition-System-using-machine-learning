@@ -10,8 +10,6 @@ When a known person ("VIP") is detected, the system:
 - Plays a system beep (on Windows) to provide an audible alert.
 - Displays a small thumbnail of the VIP's known photo for confirmation.
 
-*(Optional: Add a screenshot or GIF of your project in action here!)*  
-`![Demo of Face Recognition System]`
 
 ---
 
@@ -22,3 +20,4 @@ When a known person ("VIP") is detected, the system:
 - **Thumbnail Display:** Shows a small example photo of the recognized VIP.
 - **Alert Cooldown:** Prevents spamming alerts for the same person (10-second cooldown).
 - **Easy-to-Build Database:** Includes a script (`build_encodings.py`) to automatically learn faces from a folder of
+
